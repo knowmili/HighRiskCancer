@@ -1,0 +1,6 @@
+pandas
+numpy
+argparse
+scikit-learn
+joblib
+tensorflow
